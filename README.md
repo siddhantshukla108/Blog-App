@@ -46,5 +46,17 @@ npm run preview
 ```
 ---
 
-Do you want me to also add **badges (npm, vite, react, eslint)** at the top of the README so it looks more eye-catching on GitHub?
+---
+
+## 📞 Contact Me
+
+📧 **Email:** shuklasiddhant365@gmail.com  
+💼 **LinkedIn:** [siddhant-shukla108](https://www.linkedin.com/in/siddhant-shukla108/) <br/>
+🐦 **Twitter:** [siddhant_shuk1a](https://x.com/siddhant_shuk1a)  
+🌍 **Portfolio:** [siddhantshukla-portfolio](https://siddhantshukla-portfolio.netlify.app/)
+
+---
+
+> ⭐ Don’t forget to star the repo if you like it!  
+> 🤝 Contributions, issues, and suggestions are welcome!
 
