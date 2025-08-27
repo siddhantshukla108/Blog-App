@@ -31,10 +31,19 @@ Clone the repo and install dependencies:
 git clone <your-repo-url>
 cd <your-project-folder>
 npm install
+```
+Run development server:
+```bash
 npm run dev
+```
+Build for production:
+```bash
 npm run build
+```
+Preview production build:
+```bash
 npm run preview
-
+```
 ---
 
 Do you want me to also add **badges (npm, vite, react, eslint)** at the top of the README so it looks more eye-catching on GitHub?
